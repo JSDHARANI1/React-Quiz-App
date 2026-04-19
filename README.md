@@ -26,12 +26,4 @@ An interactive quiz application built using React.js, React Router, and Tailwind
 
 ---
 
-## 📂 Project Structure
-src/
-├── pages/
-│ ├── Home.jsx
-│ ├── Quiz.jsx
-│ └── Result.jsx
-├── App.jsx
-├── main.jsx
-└── index.css
+
